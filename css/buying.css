@@ -1,0 +1,10 @@
+.inputs{
+    padding: 0px 0px;
+    display: block;
+    place-content: left;
+    place-items: left;
+}
+h1{
+    position: relative;
+    left: 1em;
+}
